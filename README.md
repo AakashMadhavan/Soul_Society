@@ -1,4 +1,4 @@
-# Soul_Society
+# Z_Slash
 # Sentiment Analysis for Student Feedback
 
 ## Problem Statement
