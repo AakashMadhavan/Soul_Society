@@ -13,7 +13,6 @@ The goal of this project is to develop a bot that automatically processes and ca
 
 - **Automated Feedback Processing:** Streamline the collection and analysis of student feedback.
 - **Sentiment Analysis:** Classify feedback into positive, neutral, or negative categories.
-- **Reporting:** Generate summary reports to provide insights into overall sentiment trends.
 
 ## Technologies Used
 
